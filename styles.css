@@ -37,3 +37,7 @@ span {
 h1 {
     font-size: 50px;
 }
+
+li {
+    transform: translate(0px, 10px);
+}
